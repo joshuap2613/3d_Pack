@@ -8,7 +8,7 @@ gym==0.17.2
 idna==2.9
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.5
+numpy==1.22.0
 pipreqs==0.4.10
 pyglet==1.5.0
 pyparsing==2.4.7
